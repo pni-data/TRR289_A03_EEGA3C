@@ -1,0 +1,1 @@
+3583d575-12c9-4607-a035-5257e2417c5b autoenable=true bucket=c81354ab-bc49-4167-9a82-e999c137c1fa chunk=50mb datacenter=US encryption=none host=global.datastorage.nrw name=coscine-rds-s3 port=443 signature=v4 storageclass=STANDARD type=S3 timestamp=1777544322s
